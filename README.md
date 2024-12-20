@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Muhammad Shahbaj
 
-## 🎯 Data Engineering | Building efficient, robust pipelines to turn raw data into actionable insights.
+## 🎯 Data Engineer | Building efficient, robust pipelines to turn raw data into actionable insights.
 
 ## 🌱 Currently Exploring:
 
